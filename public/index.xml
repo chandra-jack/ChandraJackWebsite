@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chandra N. Jack, PhD</title>
-    <link>/chandra-jack.netlify.app/</link>
-      <atom:link href="/chandra-jack.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Chandra N. Jack, PhD</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chandra Jack 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/chandra-jack.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Chandra N. Jack, PhD</title>
-      <link>/chandra-jack.netlify.app/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/chandra-jack.netlify.app/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/chandra-jack.netlify.app/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/chandra-jack.netlify.app/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/chandra-jack.netlify.app/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/chandra-jack.netlify.app/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,9 +78,9 @@
     
     <item>
       <title>Social interactions in Dictyostelium</title>
-      <link>/chandra-jack.netlify.app/project/dicty_work/</link>
+      <link>/project/dicty_work/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/project/dicty_work/</guid>
+      <guid>/project/dicty_work/</guid>
       <description>&lt;h2 id=&#34;the-evolution-of-cooperation-is-key-to-understanding-the-transition-from-single-celled-organisms-to-multicellular-organisms-and-complex-societies&#34;&gt;The evolution of cooperation is key to understanding the transition from single-celled organisms to multicellular organisms and complex societies&lt;/h2&gt;
 &lt;p&gt;For my PhD, I studied the impact of cooperation and conflict on the fitness of the cellular slime mold, Dictyostelium in the Strassmann/Queller lab. Unlike metazoans that go through a single-cell bottleneck at the zygote stage, Dictyostelium forms a metazoan-like aggregate that may be made up of several genotypes, thus providing an arena for competition, conflict, and manipulation between clones of varying degrees of relatedness. My graduate research provided a greater understanding of how kin competition and microbial cooperation may have evolved and remained stable.&lt;/p&gt;
 &lt;p&gt;Take home points:&lt;/p&gt;
@@ -124,8 +124,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/34%205pc_8bit.jpg&#34; &gt;
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/34%205pc_8bit_hu289badf312f7961c7c7b94e0f59a6f9b_4353425_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/project/dicty_work/dictygallery/34%205pc_8bit.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/dicty_work/dictygallery/34%205pc_8bit_hu289badf312f7961c7c7b94e0f59a6f9b_4353425_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -133,8 +133,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/DD167.jpg&#34; &gt;
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/DD167_huf9c1b29735508071d35320850c92c3d9_868776_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/project/dicty_work/dictygallery/DD167.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/dicty_work/dictygallery/DD167_huf9c1b29735508071d35320850c92c3d9_868776_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -142,8 +142,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/Picture1.png&#34; &gt;
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/Picture1_hu12421a9a05a07096b53dbbf544d68feb_201633_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;262&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/project/dicty_work/dictygallery/Picture1.png&#34; &gt;
+  &lt;img data-src=&#34;/project/dicty_work/dictygallery/Picture1_hu12421a9a05a07096b53dbbf544d68feb_201633_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;262&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -151,8 +151,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/Picture2.png&#34; &gt;
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/Picture2_hu29fe56b88773387c08183f7b333a83ca_885346_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;286&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/project/dicty_work/dictygallery/Picture2.png&#34; &gt;
+  &lt;img data-src=&#34;/project/dicty_work/dictygallery/Picture2_hu29fe56b88773387c08183f7b333a83ca_885346_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;286&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -160,8 +160,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/Picture3.png&#34; &gt;
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/Picture3_hu941f3ecc9ff7795fe0bd5ba13a615077_1480864_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/project/dicty_work/dictygallery/Picture3.png&#34; &gt;
+  &lt;img data-src=&#34;/project/dicty_work/dictygallery/Picture3_hu941f3ecc9ff7795fe0bd5ba13a615077_1480864_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -169,8 +169,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/Untitled1.jpg&#34; &gt;
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/Untitled1_hu6eaaed461ab6d3364d9fd8072da9244d_371325_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/project/dicty_work/dictygallery/Untitled1.jpg&#34; &gt;
+  &lt;img data-src=&#34;/project/dicty_work/dictygallery/Untitled1_hu6eaaed461ab6d3364d9fd8072da9244d_371325_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -178,8 +178,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/dp_sort.png&#34; &gt;
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/dp_sort_hu36571ddc1ce0a78e068e7d69409e71f6_30445_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;187&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/project/dicty_work/dictygallery/dp_sort.png&#34; &gt;
+  &lt;img data-src=&#34;/project/dicty_work/dictygallery/dp_sort_hu36571ddc1ce0a78e068e7d69409e71f6_30445_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;187&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -187,8 +187,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/fb.png&#34; &gt;
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/project/dicty_work/dictygallery/fb_hub6908f77816c4e06373097d7e133a33d_2319371_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-dictygallery&#34; href=&#34;/project/dicty_work/dictygallery/fb.png&#34; &gt;
+  &lt;img data-src=&#34;/project/dicty_work/dictygallery/fb_hub6908f77816c4e06373097d7e133a33d_2319371_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -199,9 +199,9 @@
     
     <item>
       <title>Diversity Statement</title>
-      <link>/chandra-jack.netlify.app/teaching/diversity_statement/</link>
+      <link>/teaching/diversity_statement/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/teaching/diversity_statement/</guid>
+      <guid>/teaching/diversity_statement/</guid>
       <description>&lt;p&gt;Representation matters. Having role models and mentors that students can identify with matters. This is not to say that students from underrepresented backgrounds cannot receive excellent mentoring from white faculty members because I did. My undergraduate mentor is the reason I remained in science. However, as an African American woman and a first-generation college student, I can’t help but wonder if navigating academia as a student would have been easier if I had STEM professors that looked like me. If I had someone to tell me that imposter syndrome was real. If I didn’t have a professor that was unsympathetic to the difficulty of trying to balance the need for studying with needing to work to pay for school. The STEM pipeline is leaky today not necessarily because of specific barriers but because of the disproportionate effect of those barriers, especially when multiplied across the effects of race, gender, socio-economic status, disability status, and LGBTIQ+ identity.&lt;/p&gt;
 &lt;p&gt;I recognize the obstacles that underrepresented students contend with from my experiences. It is why I am so committed towards increasing diversity in higher education and making STEM a more supportive environment. I organized and led a sandbox session on diversity and inclusion in two years (2017 and 2018) at the annual meeting for the BEACON Center for the Study of Evolution in Action. These sessions used small group activities and invited open discussions about the implicit biases that individuals face from society at large and how that translates to barriers preventing underrepresented groups from feeling welcomed and staying in science. Each year, 25-30 participants at career stages ranging from undergraduates through full professors attended these sandboxes. My work helped BEACON work towards their goals of increasing diversity and combatting implicit biases. As a postdoc at Rice (2012-2013), I served as a postdoctoral liaison for the Council on Diversity and Inclusion&amp;rsquo;s (CODI&amp;rsquo;s) Graduate Life Committee to help implement the Graduate African Americans and Latinos Merging with American Indians for Action (GALMA) initiative. While serving on this committee I gave presentations about changing research directions after gaining a PhD and fellowship opportunities and met with prospective students designed to recruit and retain underrepresented students. My activities with GALMA helped to expand the STEM pipeline and improved the campus climate for African American, Latino, and Native American students across the Rice campus.&lt;/p&gt;
 &lt;p&gt;I have also extensively mentored students throughout my career, with a focus on mentoring students from under-represented groups. I have mentored 33 students: six African Americans, five Hispanics, one American Indian, three students with disabilities, and twenty-three women. Two of my students received GRFP funding; two students, both underrepresented minority women, won awards for best undergraduate researcher in Rice’s EEB department; one woman switched to a science major; seven of my students  were co-authors on my papers; five students went onto advanced degrees, and another three are working towards them. My experiences are framed by the mentoring I received as a student and it changed my life for the better. Increasing diversity has been a guiding principle of my life that I look forward to continuing with future students.&lt;/p&gt;
@@ -210,9 +210,9 @@
     
     <item>
       <title>Student mentoring</title>
-      <link>/chandra-jack.netlify.app/teaching/student_mentoring/</link>
+      <link>/teaching/student_mentoring/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/teaching/student_mentoring/</guid>
+      <guid>/teaching/student_mentoring/</guid>
       <description>&lt;p&gt;Here are some of the students that I have mentored as a postdoc and PhD student. They are all amazing and I am so proud of what they accomplished in the lab and are continuing to accomplish.&lt;/p&gt;
 
 
@@ -240,10 +240,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture1_hu1ea412cdfc47603e2fcb71291c852dc9_922356_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture1_hu1ea412cdfc47603e2fcb71291c852dc9_922356_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture1_hu1ea412cdfc47603e2fcb71291c852dc9_922356_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;597&#34;&gt;
+  &lt;img data-src=&#34;/teaching/student_mentoring/Picture1_hu1ea412cdfc47603e2fcb71291c852dc9_922356_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;597&#34;&gt;
 &lt;/a&gt;
 
 
@@ -276,10 +276,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture2_hu90264753ea12963dfb66b5060ae52941_286361_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture2_hu90264753ea12963dfb66b5060ae52941_286361_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture2_hu90264753ea12963dfb66b5060ae52941_286361_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
+  &lt;img data-src=&#34;/teaching/student_mentoring/Picture2_hu90264753ea12963dfb66b5060ae52941_286361_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
 &lt;/a&gt;
 
 
@@ -312,10 +312,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture4_hu130d838b8c7b0efd5ff0ba5daca3211c_122065_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture4_hu130d838b8c7b0efd5ff0ba5daca3211c_122065_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture4_hu130d838b8c7b0efd5ff0ba5daca3211c_122065_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;607&#34; height=&#34;317&#34;&gt;
+  &lt;img data-src=&#34;/teaching/student_mentoring/Picture4_hu130d838b8c7b0efd5ff0ba5daca3211c_122065_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;607&#34; height=&#34;317&#34;&gt;
 &lt;/a&gt;
 
 
@@ -348,10 +348,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture5_hue38dc894cde007f65f23df7364dd8c31_801311_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture5_hue38dc894cde007f65f23df7364dd8c31_801311_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture5_hue38dc894cde007f65f23df7364dd8c31_801311_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;901&#34; height=&#34;650&#34;&gt;
+  &lt;img data-src=&#34;/teaching/student_mentoring/Picture5_hue38dc894cde007f65f23df7364dd8c31_801311_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;901&#34; height=&#34;650&#34;&gt;
 &lt;/a&gt;
 
 
@@ -384,10 +384,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture6_hu2d5964e1305e759e85b4eda55a8e1c20_787683_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture6_hu2d5964e1305e759e85b4eda55a8e1c20_787683_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture6_hu2d5964e1305e759e85b4eda55a8e1c20_787683_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;542&#34;&gt;
+  &lt;img data-src=&#34;/teaching/student_mentoring/Picture6_hu2d5964e1305e759e85b4eda55a8e1c20_787683_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;542&#34;&gt;
 &lt;/a&gt;
 
 
@@ -420,10 +420,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture7_hu04a2d53caf40b2cb7d1911ffa682bbb5_795643_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture7_hu04a2d53caf40b2cb7d1911ffa682bbb5_795643_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture7_hu04a2d53caf40b2cb7d1911ffa682bbb5_795643_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
+  &lt;img data-src=&#34;/teaching/student_mentoring/Picture7_hu04a2d53caf40b2cb7d1911ffa682bbb5_795643_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
 &lt;/a&gt;
 
 
@@ -435,9 +435,9 @@
     
     <item>
       <title>Teaching Philosophy</title>
-      <link>/chandra-jack.netlify.app/teaching/teaching_philosophy/</link>
+      <link>/teaching/teaching_philosophy/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/teaching/teaching_philosophy/</guid>
+      <guid>/teaching/teaching_philosophy/</guid>
       <description>
 
 
@@ -464,10 +464,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/teaching_philosophy/education-614155_1920_huc3d14d05b294fd1743438efb91d9f47b_739722_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/teaching_philosophy/education-614155_1920_huc3d14d05b294fd1743438efb91d9f47b_739722_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/teaching_philosophy/education-614155_1920_huc3d14d05b294fd1743438efb91d9f47b_739722_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1369&#34;&gt;
+  &lt;img data-src=&#34;/teaching/teaching_philosophy/education-614155_1920_huc3d14d05b294fd1743438efb91d9f47b_739722_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1369&#34;&gt;
 &lt;/a&gt;
 
 
@@ -494,9 +494,9 @@ I will strive to reach all of my students, no matter their learning style and cr
     
     <item>
       <title>Interactive Effects of Microbes and Nitrogen on _Panicum virgatum_ Root Functional Traits and Patterns of Phenotypic Selection</title>
-      <link>/chandra-jack.netlify.app/publication/2019_interactiveeffects/</link>
+      <link>/publication/2019_interactiveeffects/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/publication/2019_interactiveeffects/</guid>
+      <guid>/publication/2019_interactiveeffects/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -512,9 +512,9 @@ I will strive to reach all of my students, no matter their learning style and cr
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>/chandra-jack.netlify.app/post/writing-technical-content/</link>
+      <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/post/writing-technical-content/</guid>
+      <guid>/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -765,9 +765,9 @@ You found me!
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/chandra-jack.netlify.app/publication/preprint/</link>
+      <link>/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/publication/preprint/</guid>
+      <guid>/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -780,9 +780,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/chandra-jack.netlify.app/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -829,9 +829,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>/chandra-jack.netlify.app/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -963,35 +963,35 @@ Three
     
     <item>
       <title>Privacy Policy</title>
-      <link>/chandra-jack.netlify.app/privacy/</link>
+      <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/chandra-jack.netlify.app/privacy/</guid>
+      <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>/chandra-jack.netlify.app/terms/</link>
+      <link>/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/chandra-jack.netlify.app/terms/</guid>
+      <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/chandra-jack.netlify.app/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/chandra-jack.netlify.app/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -1136,9 +1136,9 @@ Three
     
     <item>
       <title>An example journal article</title>
-      <link>/chandra-jack.netlify.app/publication/journal-article/</link>
+      <link>/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/publication/journal-article/</guid>
+      <guid>/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -1156,9 +1156,9 @@ Three
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/chandra-jack.netlify.app/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/chandra-jack.netlify.app/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -1195,7 +1195,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/chandra-jack.netlify.app/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -1206,9 +1206,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>An example conference paper</title>
-      <link>/chandra-jack.netlify.app/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/chandra-jack.netlify.app/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
