@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings | Chandra N. Jack, PhD</title>
-    <link>/teaching/</link>
-      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>/chandra-jack.netlify.app/teaching/</link>
+      <atom:link href="/chandra-jack.netlify.app/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chandra Jack 2020</copyright><lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/chandra-jack.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teachings</title>
-      <link>/teaching/</link>
+      <link>/chandra-jack.netlify.app/teaching/</link>
     </image>
     
     <item>
       <title>Diversity Statement</title>
-      <link>/teaching/diversity_statement/</link>
+      <link>/chandra-jack.netlify.app/teaching/diversity_statement/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/diversity_statement/</guid>
+      <guid>/chandra-jack.netlify.app/teaching/diversity_statement/</guid>
       <description>&lt;p&gt;Representation matters. Having role models and mentors that students can identify with matters. This is not to say that students from underrepresented backgrounds cannot receive excellent mentoring from white faculty members because I did. My undergraduate mentor is the reason I remained in science. However, as an African American woman and a first-generation college student, I can’t help but wonder if navigating academia as a student would have been easier if I had STEM professors that looked like me. If I had someone to tell me that imposter syndrome was real. If I didn’t have a professor that was unsympathetic to the difficulty of trying to balance the need for studying with needing to work to pay for school. The STEM pipeline is leaky today not necessarily because of specific barriers but because of the disproportionate effect of those barriers, especially when multiplied across the effects of race, gender, socio-economic status, disability status, and LGBTIQ+ identity.&lt;/p&gt;
 &lt;p&gt;I recognize the obstacles that underrepresented students contend with from my experiences. It is why I am so committed towards increasing diversity in higher education and making STEM a more supportive environment. I organized and led a sandbox session on diversity and inclusion in two years (2017 and 2018) at the annual meeting for the BEACON Center for the Study of Evolution in Action. These sessions used small group activities and invited open discussions about the implicit biases that individuals face from society at large and how that translates to barriers preventing underrepresented groups from feeling welcomed and staying in science. Each year, 25-30 participants at career stages ranging from undergraduates through full professors attended these sandboxes. My work helped BEACON work towards their goals of increasing diversity and combatting implicit biases. As a postdoc at Rice (2012-2013), I served as a postdoctoral liaison for the Council on Diversity and Inclusion&amp;rsquo;s (CODI&amp;rsquo;s) Graduate Life Committee to help implement the Graduate African Americans and Latinos Merging with American Indians for Action (GALMA) initiative. While serving on this committee I gave presentations about changing research directions after gaining a PhD and fellowship opportunities and met with prospective students designed to recruit and retain underrepresented students. My activities with GALMA helped to expand the STEM pipeline and improved the campus climate for African American, Latino, and Native American students across the Rice campus.&lt;/p&gt;
 &lt;p&gt;I have also extensively mentored students throughout my career, with a focus on mentoring students from under-represented groups. I have mentored 33 students: six African Americans, five Hispanics, one American Indian, three students with disabilities, and twenty-three women. Two of my students received GRFP funding; two students, both underrepresented minority women, won awards for best undergraduate researcher in Rice’s EEB department; one woman switched to a science major; seven of my students  were co-authors on my papers; five students went onto advanced degrees, and another three are working towards them. My experiences are framed by the mentoring I received as a student and it changed my life for the better. Increasing diversity has been a guiding principle of my life that I look forward to continuing with future students.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Student mentoring</title>
-      <link>/teaching/student_mentoring/</link>
+      <link>/chandra-jack.netlify.app/teaching/student_mentoring/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/student_mentoring/</guid>
+      <guid>/chandra-jack.netlify.app/teaching/student_mentoring/</guid>
       <description>&lt;p&gt;Here are some of the students that I have mentored as a postdoc and PhD student. They are all amazing and I am so proud of what they accomplished in the lab and are continuing to accomplish.&lt;/p&gt;
 
 
@@ -55,10 +55,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture1_hu1ea412cdfc47603e2fcb71291c852dc9_922356_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture1_hu1ea412cdfc47603e2fcb71291c852dc9_922356_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/teaching/student_mentoring/Picture1_hu1ea412cdfc47603e2fcb71291c852dc9_922356_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;597&#34;&gt;
+  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture1_hu1ea412cdfc47603e2fcb71291c852dc9_922356_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;597&#34;&gt;
 &lt;/a&gt;
 
 
@@ -91,10 +91,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture2_hu90264753ea12963dfb66b5060ae52941_286361_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture2_hu90264753ea12963dfb66b5060ae52941_286361_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/teaching/student_mentoring/Picture2_hu90264753ea12963dfb66b5060ae52941_286361_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
+  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture2_hu90264753ea12963dfb66b5060ae52941_286361_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
 &lt;/a&gt;
 
 
@@ -127,10 +127,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture4_hu130d838b8c7b0efd5ff0ba5daca3211c_122065_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture4_hu130d838b8c7b0efd5ff0ba5daca3211c_122065_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/teaching/student_mentoring/Picture4_hu130d838b8c7b0efd5ff0ba5daca3211c_122065_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;607&#34; height=&#34;317&#34;&gt;
+  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture4_hu130d838b8c7b0efd5ff0ba5daca3211c_122065_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;607&#34; height=&#34;317&#34;&gt;
 &lt;/a&gt;
 
 
@@ -163,10 +163,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture5_hue38dc894cde007f65f23df7364dd8c31_801311_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture5_hue38dc894cde007f65f23df7364dd8c31_801311_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/teaching/student_mentoring/Picture5_hue38dc894cde007f65f23df7364dd8c31_801311_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;901&#34; height=&#34;650&#34;&gt;
+  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture5_hue38dc894cde007f65f23df7364dd8c31_801311_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;901&#34; height=&#34;650&#34;&gt;
 &lt;/a&gt;
 
 
@@ -199,10 +199,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture6_hu2d5964e1305e759e85b4eda55a8e1c20_787683_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture6_hu2d5964e1305e759e85b4eda55a8e1c20_787683_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/teaching/student_mentoring/Picture6_hu2d5964e1305e759e85b4eda55a8e1c20_787683_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;542&#34;&gt;
+  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture6_hu2d5964e1305e759e85b4eda55a8e1c20_787683_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;542&#34;&gt;
 &lt;/a&gt;
 
 
@@ -235,10 +235,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/student_mentoring/Picture7_hu04a2d53caf40b2cb7d1911ffa682bbb5_795643_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture7_hu04a2d53caf40b2cb7d1911ffa682bbb5_795643_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/teaching/student_mentoring/Picture7_hu04a2d53caf40b2cb7d1911ffa682bbb5_795643_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
+  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/student_mentoring/Picture7_hu04a2d53caf40b2cb7d1911ffa682bbb5_795643_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
 &lt;/a&gt;
 
 
@@ -250,9 +250,9 @@
     
     <item>
       <title>Teaching Philosophy</title>
-      <link>/teaching/teaching_philosophy/</link>
+      <link>/chandra-jack.netlify.app/teaching/teaching_philosophy/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/teaching_philosophy/</guid>
+      <guid>/chandra-jack.netlify.app/teaching/teaching_philosophy/</guid>
       <description>
 
 
@@ -279,10 +279,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/teaching/teaching_philosophy/education-614155_1920_huc3d14d05b294fd1743438efb91d9f47b_739722_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/teaching_philosophy/education-614155_1920_huc3d14d05b294fd1743438efb91d9f47b_739722_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;/teaching/teaching_philosophy/education-614155_1920_huc3d14d05b294fd1743438efb91d9f47b_739722_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1369&#34;&gt;
+  &lt;img data-src=&#34;/chandra-jack.netlify.app/chandra-jack.netlify.app/teaching/teaching_philosophy/education-614155_1920_huc3d14d05b294fd1743438efb91d9f47b_739722_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1369&#34;&gt;
 &lt;/a&gt;
 
 
