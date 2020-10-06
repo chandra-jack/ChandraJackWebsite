@@ -1,5 +1,5 @@
 ---
-date: "2020-10-02T00:00:00Z"
+date: "2020-10-06T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -38,4 +38,3 @@ Take home points:
 
 - Cells that remain in the mixed aggregates form heterospecific slugs that allow them to traverse greater distances over smaller conspecific slugs, which is advantageous, but are at a fitness disadvantage compared to conspecific slugs of the same size (<b>Jack et al 2008</b> ).
 
-{{< gallery album="dictygallery" >}}
