@@ -24,11 +24,9 @@ url_video: ""
 
 ## These projects were developed based on my NSF BEACON proposal when I was the BEACON Distinguished Postdoctoral Fellow at MSU. 
 
-### Third-party mutualists have contrasting effects on host
-invasion under the enemy-release and biotic-resistance
-hypotheses
+### Third-party mutualists have contrasting effects on host invasion under the enemy-release and biotic-resistance hypotheses
 
-Chandra N. Jack • Maren L. Friesen • Arend Hintze • Leigh Sheneman1
+Chandra N. Jack • Maren L. Friesen • Arend Hintze • Leigh Sheneman
 
 Plants engage in complex multipartite interactions with mutualists and antagonists,
 but these interactions are rarely included in studies that explore plant invasiveness.
@@ -50,4 +48,5 @@ interactions between plants and herbivores?
 (3) Does the effect of tripartite interactions on the invasion success of a plant depend on
 whether organisms interact through trait similarity [Enemy Release Hypothesis (ERH)] or
 dissimilarity (Biotic Resistance Hypothesis)?
+
 
