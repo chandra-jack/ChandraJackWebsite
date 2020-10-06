@@ -5,12 +5,44 @@
     <link>/tag/microbiology/</link>
       <atom:link href="/tag/microbiology/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiology</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chandra Jack 2020</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chandra Jack 2020</copyright><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Microbiology</title>
       <link>/tag/microbiology/</link>
     </image>
+    
+    <item>
+      <title>Plant-Herbivore Interactions</title>
+      <link>/project/plant_herbivore/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/plant_herbivore/</guid>
+      <description>&lt;h2 id=&#34;these-projects-were-developed-based-on-my-nsf-beacon-proposal-when-i-was-the-beacon-distinguished-postdoctoral-fellow-at-msu&#34;&gt;These projects were developed based on my NSF BEACON proposal when I was the BEACON Distinguished Postdoctoral Fellow at MSU.&lt;/h2&gt;
+&lt;h3 id=&#34;third-party-mutualists-have-contrasting-effects-on-host&#34;&gt;Third-party mutualists have contrasting effects on host&lt;/h3&gt;
+&lt;p&gt;invasion under the enemy-release and biotic-resistance
+hypotheses&lt;/p&gt;
+&lt;p&gt;Chandra N. Jack • Maren L. Friesen • Arend Hintze • Leigh Sheneman1&lt;/p&gt;
+&lt;p&gt;Plants engage in complex multipartite interactions with mutualists and antagonists,
+but these interactions are rarely included in studies that explore plant invasiveness.
+When considered in isolation, we know that beneficial microbes can enhance an exotic
+plant’s invasive ability and that herbivorous insects often decrease an exotic plant’s
+likeliness of success. However, the effect of these partners on plant fitness has not been
+well characterized when all three species coevolve. We use computational evolutionary
+modeling of a trait-based system to test how microbes and herbivores simultaneously
+coevolving with an invading plant affect the invaders’ probability of becoming established.
+Specifically, we designed a model that explores how a beneficial microbe would influence
+the outcome of an interaction between a plant and herbivore. To model novel interactions,
+we included a phenotypic trait shared by each species. Making this trait continuous and
+selectable allows us to explore how trait similarities between coevolving plants, herbivores
+and microbes affect fitness. Using this model, we answer the following questions:
+(1) Can a beneficial plant-microbe interaction influence the evolutionary outcome of antagonistic
+interactions between plants and herbivores?&lt;/p&gt;
+&lt;p&gt;(2) How does the initial trait similarity between interacting organisms affect the likelihood of plant survival in novel locations?
+(3) Does the effect of tripartite interactions on the invasion success of a plant depend on
+whether organisms interact through trait similarity [Enemy Release Hypothesis (ERH)] or
+dissimilarity (Biotic Resistance Hypothesis)?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Social interactions in Dictyostelium</title>

@@ -8,7 +8,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/ChandraJack1
 #slides: example
 summary: Summary of my PhD work with <i> Dictyostelium </i>.
 tags:
