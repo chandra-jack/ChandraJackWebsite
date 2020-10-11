@@ -33,12 +33,17 @@
   </url>
   
   <url>
-    <loc>/tag/invasion/</loc>
+    <loc>/project/biosquare/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/medicago/</loc>
+    <loc>/tag/herbivore/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/invasion/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,12 +53,12 @@
   </url>
   
   <url>
-    <loc>/project/plant_herbivore/</loc>
+    <loc>/project/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/tag/simulation/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   

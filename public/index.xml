@@ -77,12 +77,11 @@
     </item>
     
     <item>
-      <title>Plant-Herbivore Interactions</title>
-      <link>/project/plant_herbivore/</link>
+      <title>BioSquare</title>
+      <link>/project/biosquare/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/plant_herbivore/</guid>
-      <description>&lt;h2 id=&#34;these-projects-were-developed-based-on-my-nsf-beacon-proposal-when-i-was-the-beacon-distinguished-postdoctoral-fellow-at-msu&#34;&gt;These projects were developed based on my NSF BEACON proposal when I was the BEACON Distinguished Postdoctoral Fellow at MSU.&lt;/h2&gt;
-&lt;h3 id=&#34;third-party-mutualists-have-contrasting-effects-on-host-invasion-under-the-enemy-release-and-biotic-resistance-hypotheses&#34;&gt;Third-party mutualists have contrasting effects on host invasion under the enemy-release and biotic-resistance hypotheses&lt;/h3&gt;
+      <guid>/project/biosquare/</guid>
+      <description>&lt;h3 id=&#34;third-party-mutualists-have-contrasting-effects-on-host-invasion-under-the-enemy-release-and-biotic-resistance-hypotheses&#34;&gt;Third-party mutualists have contrasting effects on host invasion under the enemy-release and biotic-resistance hypotheses&lt;/h3&gt;
 &lt;p&gt;Chandra N. Jack • Maren L. Friesen • Arend Hintze • Leigh Sheneman&lt;/p&gt;
 &lt;p&gt;Plants engage in complex multipartite interactions with mutualists and antagonists,
 but these interactions are rarely included in studies that explore plant invasiveness.
@@ -96,13 +95,391 @@ Specifically, we designed a model that explores how a beneficial microbe would i
 the outcome of an interaction between a plant and herbivore. To model novel interactions,
 we included a phenotypic trait shared by each species. Making this trait continuous and
 selectable allows us to explore how trait similarities between coevolving plants, herbivores
-and microbes affect fitness. Using this model, we answer the following questions:
-(1) Can a beneficial plant-microbe interaction influence the evolutionary outcome of antagonistic
-interactions between plants and herbivores?&lt;/p&gt;
-&lt;p&gt;(2) How does the initial trait similarity between interacting organisms affect the likelihood of plant survival in novel locations?
-(3) Does the effect of tripartite interactions on the invasion success of a plant depend on
-whether organisms interact through trait similarity [Enemy Release Hypothesis (ERH)] or
-dissimilarity (Biotic Resistance Hypothesis)?&lt;/p&gt;
+and microbes affect fitness. Using this model, we answer the following questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Can a beneficial plant-microbe interaction influence the evolutionary outcome of antagonistic interactions between plants and herbivores?&lt;/li&gt;
+&lt;li&gt;How does the initial trait similarity between interacting organisms affect the likelihood of plant survival in novel locations?&lt;/li&gt;
+&lt;li&gt;Does the effect of tripartite interactions on the invasion success of a plant depend on whether organisms interact through trait similarity [Enemy Release Hypothesis (ERH)] or dissimilarity [Biotic Resistance Hypothesis (BRH)]?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h3&gt;
+&lt;p&gt;We found that it was much more difficult for plants to invade under the ERH but that beneficial microbes increase the probability of plant survival in a novel range under both hypotheses. Genetically dissimilar microbes can also have positive benefits, which is important for many mutualisms where there isn’t vertical transmission.&lt;/p&gt;
+&lt;h3 id=&#34;simulation-setup&#34;&gt;Simulation setup&lt;/h3&gt;
+&lt;h4 id=&#34;environment-and-genome-space&#34;&gt;Environment and genome space&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Each organism has a genome that consists of 2 genes that is set as a 2D vector, G = (X,Y) that acts as a single trait.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The biotic environment is limited to 128 x 128 toroidal surface. At every update of the model, each organism interacts with eight other random individuals. The interaction strength ($\Delta$) is determined by the phenotypic distance (&lt;em&gt;d&lt;/em&gt;) between two organisms (&lt;em&gt;i&lt;/em&gt; and &lt;em&gt;j&lt;/em&gt;), which is defined using Hamming distance
+&lt;em&gt;d&lt;/em&gt;&lt;sub&gt;i;j&lt;/sub&gt; = |X&lt;sub&gt;i&lt;/sub&gt; - X&lt;sub&gt;j&lt;/sub&gt;| + |Y&lt;sub&gt;i&lt;/sub&gt; - Y&lt;sub&gt;j&lt;/sub&gt;|&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A payoff matrix is filled out based on the interacting organisms and fitness is calculated by averaging all payoffs.
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/biosquare/Picture1_hu8578415d0edd19b6567e3412b5577ca3_492203_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/biosquare/Picture1_hu8578415d0edd19b6567e3412b5577ca3_492203_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1088&#34; height=&#34;836&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;evolution-in-the-population&#34;&gt;Evolution in the population&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;1% of the population killed&lt;/li&gt;
+&lt;li&gt;Replaced through fitness proportional selection&lt;/li&gt;
+&lt;li&gt;Replacements have a 1% chance of mutating&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/biosquare/Picture2_hu2eef27872d5113f9e87d799ca67365dc_260910_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/biosquare/Picture2_hu2eef27872d5113f9e87d799ca67365dc_260910_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1760&#34; height=&#34;648&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;predictions&#34;&gt;Predictions&lt;/h3&gt;
+&lt;p&gt;We operate under two assumptions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shared evolutionary history = Defensive Arms Race&lt;/li&gt;
+&lt;li&gt;Naïve interactions = Maladapted Plant-Herbivore Interaction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If maladaptation is &lt;strong&gt;disadvantageous&lt;/strong&gt; for herbivores:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style = &#34;color:red;&#34;&gt;Enemy Release Hypothesis (ERH)&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Herbivores preferentially consume native plants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style = &#34;color:blue;&#34;&gt;H&lt;/span&gt; -&amp;gt; &lt;span style = &#34;color:green;&#34;&gt;P &lt;/span&gt;: -m; Herbivores will attempt to &lt;strong&gt;increase&lt;/strong&gt; trait matching&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If maladaptation is &lt;strong&gt;advantageous&lt;/strong&gt; for herbivores:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style = &#34;color:red;&#34;&gt;Biotic Resistance Hypothesis (BRH)&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Herbivores preferentially consume introduced plants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style = &#34;color:blue;&#34;&gt;H&lt;/span&gt; -&amp;gt; &lt;span style = &#34;color:green;&#34;&gt;P &lt;/span&gt;: 2-m; Herbivores will attempt to &lt;strong&gt;decrease&lt;/strong&gt; trait matching&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;experimental-conditions&#34;&gt;Experimental Conditions&lt;/h3&gt;
+&lt;p&gt;For each hypothesis we varied the trait similarity between plants and herbivores (6 different values spanning trait space) and between plants and microbes (2 values, near and far)&lt;/p&gt;
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+&lt;h4 id=&#34;the-presence-of-a-beneficial-microbe-can-increase-plant-survival-in-a-novel-habitat-even-if-the-initial-trait-similarity-is-low&#34;&gt;The presence of a beneficial microbe can increase plant survival in a novel habitat even if the initial trait similarity is low.&lt;/h4&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/biosquare/Picture3_hu517eba3716a4760e76796ff93d14750a_109017_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/biosquare/Picture3_hu517eba3716a4760e76796ff93d14750a_109017_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1640&#34; height=&#34;1080&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;the-frequency-and-final-outcome-of-all-organisms-in-the-community-are-influenced-by-their-initial-trait-similarity-to-each-other&#34;&gt;The frequency and final outcome of all organisms in the community are influenced by their initial trait similarity to each other.&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/biosquare/Picture4_hu20e64e11a768f6b8cc9a9fcaa75dc036_144153_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/biosquare/Picture4_hu20e64e11a768f6b8cc9a9fcaa75dc036_144153_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1422&#34; height=&#34;1092&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/biosquare/Picture5_hu49aeb62b109891033b203673c3408745_140718_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/biosquare/Picture5_hu49aeb62b109891033b203673c3408745_140718_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1422&#34; height=&#34;1092&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;trait-similarity-between-the-plant-and-the-microbe-always-increases-as-indicated-by-the-decrease-in-mean-difference-between-the-genes&#34;&gt;Trait similarity between the plant and the microbe always increases as indicated by the decrease in mean difference between the genes.&lt;/h4&gt;
+&lt;p&gt;The similarity between the plant and the herbivore fluctuates over time. The plant and microbe genomes evolve to yield matching traits&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/biosquare/Picture6_hu8d0839a4f2aaa9532a5572a32b3648d1_235329_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/biosquare/Picture6_hu8d0839a4f2aaa9532a5572a32b3648d1_235329_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1422&#34; height=&#34;1092&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/biosquare/Picture7_hucbfd9755b35e58c028b53c3ce34c7b94_141799_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/biosquare/Picture7_hucbfd9755b35e58c028b53c3ce34c7b94_141799_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1422&#34; height=&#34;1092&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;selection-pressure-changes-trait-values&#34;&gt;Selection pressure changes trait values&lt;/h4&gt;
+&lt;p&gt;The variance of the genetically-determined trait in our system can determine whether the organisms are under selection or if changes in the traits are due to genetic drift. When the variance is at the red line (variance = 1/12), then changes in trait values are due to genetic drift. Otherwise, the organisms are under selection.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/biosquare/Picture8_hu557ba01d2e5032ec122e1bd49adcce7e_182473_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/biosquare/Picture8_hu557ba01d2e5032ec122e1bd49adcce7e_182473_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1422&#34; height=&#34;1092&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/biosquare/Picture9_hub8e0d082b6dc8d1d7e5b89132cdcc015_154148_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/biosquare/Picture9_hub8e0d082b6dc8d1d7e5b89132cdcc015_154148_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1422&#34; height=&#34;1092&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
