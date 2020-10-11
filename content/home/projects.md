@@ -32,6 +32,22 @@ subtitle = ""
   [[content.filter_button]]
     name = "Other"
     tag = "Demo"
+    
+  [[content.filter_button]]
+    name = "Herbivory"
+    tag = "Herbivore"
+    
+  [[content.filter_button]]
+    name = "Invasion"
+    tag = "Invasion"
+  
+  [[content.filter_button]]
+    name = "Simulation"
+    tag = "Simulation"
+    
+  [[content.filter_button]]
+    name = "Microbiology"
+    tag = "Microbiology"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
