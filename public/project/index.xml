@@ -5,12 +5,59 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chandra Jack 2020</copyright><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Chandra Jack 2020</copyright><lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Rapid Evolution in M. polymorpha populations</title>
+      <link>/project/rapidevolution/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/rapidevolution/</guid>
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/rapidevolution/imageTub_hua3bf78a4e66eb14c5d258d1854d7ec39_742862_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/rapidevolution/imageTub_hua3bf78a4e66eb14c5d258d1854d7ec39_742862_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2106&#34; height=&#34;1140&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;rapid-evolution-of-medicago-polymorpha-during-invasion-shifts-interactions-with-the-soybean-looper&#34;&gt;Rapid evolution of &lt;em&gt;Medicago polymorpha&lt;/em&gt; during invasion shifts interactions with the soybean looper&lt;/h3&gt;
+&lt;p&gt;Chandra N. Jack • Maren L. Friesen&lt;/p&gt;
+&lt;p&gt;The Enemy Release Hypothesis posits that invasion of novel habitats can be facilitated by the absence of coevolved herbivores. However, a new environment and interactions with unfamiliar herbivores may impose selection on invading plants for traits that reduce their attractiveness to herbivores or for enhanced defenses compared to native host plants, leading to a pattern similar to enemy release but driven by evolutionary change rather than ecological differences. The Shifting Defense Hypothesis posits that plants in novel habitats will shift from specialized defense mechanisms to defense mechanisms effective against generalist herbivores in the new range. We tested these ideas by comparing herbivore preference and performance of native (Eurasia)‐ and invasive (New World)‐range Medicago polymorpha, using a generalist herbivore, the soybean looper, that co‐occurs with M. polymorpha in its New World invaded range. We found that soybean loopers varied in preference and performance depending on host genotype and that overall the herbivore preferred to consume plant genotypes from naïve populations from Eurasia. This potentially suggests that range expansion of M. polymorpha into the New World has led to rapid evolution of a variety of traits that have helped multiple populations become established, including those that may allow invasive populations to resist herbivory. Thus, enemy release in a novel range can occur through rapid evolution by the plant during invasion, as predicted by the Shifting Defense Hypothesis, rather than via historical divergence.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BioSquare</title>

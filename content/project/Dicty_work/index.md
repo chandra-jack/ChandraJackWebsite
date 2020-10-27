@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/ChandraJack1
 #slides: example
-summary: Summary of my PhD work with <i> Dictyostelium </i>.
+summary: Summary of my PhD work with <i> Dictyostelium</i>.
 tags:
 - Dictyostelium
 - Sociobiology
