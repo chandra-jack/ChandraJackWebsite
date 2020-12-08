@@ -16,7 +16,7 @@ tags:
 - Herbivore
 - Invasion
 
-title: Rapid Evolution in M. polymorpha populations
+title: Rapid evolution in M. polymorpha populations 
 url_code: ""
 url_pdf: ""
 url_slides: ""
